@@ -1,4 +1,5 @@
-![banner](banner.png)
+![Banner](banner.png#gh-dark-mode-only)
+![Banner](banner-light.png#gh-light-mode-only)
 
 ### Hi there 👋
 
