@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 👉My personl site [https://andornot.xyz](https://andornot.xyz)
+- 👉My personal site [https://andornot.xyz](https://andornot.xyz)
 
 <div>
   <p align="center">
