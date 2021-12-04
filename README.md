@@ -1,3 +1,5 @@
+![banner](banner.png)
+
 ### Hi there 👋
 
 <!--
@@ -14,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div>
   <p align="center">
 <!--     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=igaozp&show_icons=true&theme=gruvbox#gh-dark-mode-only" /> -->
