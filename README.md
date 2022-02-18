@@ -4,6 +4,7 @@
 ### Hi there 👋
 
 - 👉My personal site [https://andornot.xyz](https://andornot.xyz)
+- 💻Computer knowledge wiki [https://okcomputer.wiki](https://okcomputer.wiki)
 
 <div>
   <p align="center">
