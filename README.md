@@ -1,6 +1,3 @@
-![Banner](banner.png#gh-dark-mode-only)
-![Banner](banner-light.png#gh-light-mode-only)
-
 ### Hi there 👋
 
 - 👉My personal site [https://andornot.xyz](https://andornot.xyz)
