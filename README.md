@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👉My personal site [https://andornot.xyz](https://andornot.xyz)
-- 💻Computer knowledge wiki [https://okcomputer.wiki](https://okcomputer.wiki)
+- 💻The Hitchhiker's incomplete Guide to the Computer 计算机漫游不完全指南 [https://lisp.icu](https://lisp.icu)
 
 <div>
   <p align="center">
