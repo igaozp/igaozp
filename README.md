@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👉My personal site [https://andornot.xyz](https://andornot.xyz)
+- 👉My personal site [https://blog.igaozp.me](https://blog.igaozp.me)
 - 💻The Hitchhiker's incomplete Guide to the Computer 计算机漫游不完全指南 [https://lisp.icu](https://lisp.icu)
 
 <div>
