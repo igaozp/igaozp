@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 - 👉My personal site [https://igaozp.me](https://igaozp.me)
+- 👉Yet another personal Site [https://andornot.xyz](https://andornot.xyz)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/igaozp/igaozp/output/github-contribution-grid-snake.svg)
 
 <div>
   <p align="center">
